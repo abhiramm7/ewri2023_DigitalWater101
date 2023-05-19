@@ -5,3 +5,5 @@ pyswmm
 swmmio
 pystorms
 matplotlib
+scikit-learn
+plotly
